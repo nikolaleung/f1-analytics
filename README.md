@@ -1,2 +1,2 @@
 # f1analytics
-f1 data visualized using fastf1
+Website that visualizes f1 data using fastf1 library
